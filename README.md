@@ -1,3 +1,12 @@
+# clicky_game
+new repo for clicky game
+
+play my nba clicky memory game here:
+
+https://mchellagnarls.github.io/clicky_game/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
