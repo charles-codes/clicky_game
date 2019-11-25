@@ -1,0 +1,24 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: rgb(37, 41, 44);
+    margin-bottom: 10px;
+    border: 3px solid rgb(37, 41, 44);
+    padding: 5px;
+    border-radius: 50px;
+}
+.title {
+    float: left;
+    background: white;
+    border: black 1px solid;
+    border-radius: 50px;
+    padding: 5px;
+}
+.scores {
+    float: right;
+    color: red;
+    background: white;
+    border: black 1px solid;
+    border-radius: 50px;
+    padding: 5px;
+}

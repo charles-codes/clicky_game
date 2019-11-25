@@ -1,0 +1,56 @@
+[
+    {
+    "id": 1,
+    "name": "James Harden",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/hardeja01.jpg",
+    "count": 0
+    },
+    {
+    "id": 2,
+    "name": "LeBron James",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/jamesle01.jpg",
+    "count": 0
+    },
+    {
+    "id": 3,
+    "name": "Kawhi Leonard",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/leonaka01.jpg",
+    "count": 0
+    },
+    {
+    "id": 4,
+    "name": "Steph Curry",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/curryst01.jpg",
+    "count": 0
+    },
+    {
+    "id": 5,
+    "name": "Nikola Jokic",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/jokicni01.jpg",
+    "count": 0
+    },
+    {
+    "id": 6,
+    "name": "Kyrie Irving",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/irvinky01.jpg",
+    "count": 0
+    },
+    {
+    "id": 7,
+    "name": "Joel Embiid",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/embiijo01.jpg",
+    "count": 0
+    },
+    {
+    "id": 8,
+    "name": "Luka Doncic",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/doncilu01.jpg",
+    "count": 0
+    },
+    {
+    "id": 9,
+    "name": "Damian Lillard",
+    "image": "https://d2cwpp38twqe55.cloudfront.net/req/201911201/images/players/lillada01.jpg",
+    "count": 0
+    }
+]
